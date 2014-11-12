@@ -19,6 +19,8 @@ This repository contains code from
 * Flow Cytometry Data Reader and Visualization, by Robert Henson
     (https://www.mathworks.com/matlabcentral/fileexchange/8430-flow-cytometry-data-reader-and-visualization)
 
-
+Distributed under the BSD license
+Jakub Nedbal, 2014
+King's College London
 
 
