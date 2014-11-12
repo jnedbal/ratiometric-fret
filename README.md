@@ -11,6 +11,14 @@ Voltage-2_32aa.fcs   :  Cells transfected with FRET standard featuring 7 aminoac
 
 A minimum of two different FRET standard samples are required.
 
+Source code:
+
+FRETeff.m       :  Matlab code for FRET efficiency analysis
+dscatter.m      :  Support Matlab code for plotting 2D scatter plots (Robert Henson)
+fca_readfcs.m   :  Support Matlab code for importing FCS files (Laszlo Balkay)
+num2eng.m       :  Support Matlab code for converting number into engineering style
+FRETresults.tex :  TEX source for creating report file
+
 
 Acknowledgements:
 This repository contains code from 
